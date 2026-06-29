@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import {BrowserRouter,Routes,Route} from "react-router"
 import { PrimeReactProvider } from 'primereact/api';
 
-import "./index.css"
+import "./Index.css"
 
 import Home from "./Pages/Home.js";
 import CreateArtical from "./Pages/CreateArtical.js";
